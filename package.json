@@ -1,0 +1,11 @@
+{
+  "name": "simple-api-rest",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn json-server --watch db.json --port 3334"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
